@@ -1,1 +1,1 @@
-# master-addons-magic-copy-api
+# Master Addons Magic Copy API
